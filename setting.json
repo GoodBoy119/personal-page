@@ -1,0 +1,46 @@
+{
+    "title": "Eternalの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Eternal,个人主页",
+    "author": "Eternal",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "Eternal",
+    "logo_text_2": "top",
+    "github": "eternal",
+    "qq": "2575004352",
+    "email": "one@eternal.top",
+    "bilibili": "228259377",
+    "telegram": "bottom_user",
+    "link_1": [
+        "https://blog.imssyy.top/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.imssyy.top/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://music.imsyy.top/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://nav.imssyy.top/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://c.runoob.com/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://lab.imssyy.top/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "永恒",
+    "beian": "湘ICP备2021018748号-1"
+}
